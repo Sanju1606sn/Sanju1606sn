@@ -1,16 +1,10 @@
-## Hi there 👋
-
-<!--
-**Sanju1606sn/Sanju1606sn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 M.Tech | Industrial Engineering & Operations Research | IIT Bombay  
+📊 Passionate about Optimization • Queueing Theory • Supply Chain Analytics  
+🔬 Research Interests: Mathematical Modelling, Simulation, Stochastic Processes  
+🧠 Skills: Python • PyTorch • Pyomo • AnyLogic • Gurobi • SQL • Data Visualization  
+📦 Projects:  
+- Demand Forecasting & Anomaly Detection (M5 Dataset)  
+- Queue Balancing in Ring Networks (CTMCs / Bernoulli Models)  
+- Multi-Modal Transportation Optimization  
+🚀 Always exploring the intersection of AI and Operations Research  
+📫 Let’s collaborate: [sanjusn1606@gmail.com]
